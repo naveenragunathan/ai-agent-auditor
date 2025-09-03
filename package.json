@@ -1,0 +1,12 @@
+{
+  "name": "ai-website-audit-suite",
+  "version": "1.0.0",
+  "description": "AI-powered website audit application with specialized agents",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "python main.py"
+  },
+  "keywords": ["ai", "website", "audit", "agents", "fastapi"],
+  "author": "AI Website Audit Suite",
+  "license": "MIT"
+}
